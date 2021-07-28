@@ -20,7 +20,7 @@
   ## Usage 
     * Use this program by: enjoy in
   
-  ![alt text](assets/images/ss.png)
+  ![alt text](/ss.png)
   
   
   ## Credits
